@@ -1,0 +1,13 @@
+body {
+  background-color: #292727;
+  color: #e0d3d3;
+}
+rectangle {
+  box-shadow: 0px 2px 0px rgba(255, 255, 255, 0.16);
+}
+line {
+  border: 2px solid #e0d3d3;
+}
+line3 {
+  border: 2px solid #e0d3d3;
+}
